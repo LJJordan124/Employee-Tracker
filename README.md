@@ -56,16 +56,6 @@ Run the following in the terminal with your SQL account activated for usage:
 Exit your SQL account and run the following in the terminal:
 * node server.js
 
-### Walkthrough Video: 27%
-
-* A walkthrough video that demonstrates the functionality of the employee tracker must be submitted, and a link to the video should be included in your README file.
-
-* The walkthrough video must show all of the technical acceptance criteria being met.
-
-* The walkthrough video must demonstrate how a user would invoke the application from the command line.
-
-* The walkthrough video must demonstrate a functional menu with the options outlined in the acceptance criteria.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
