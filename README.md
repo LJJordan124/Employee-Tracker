@@ -24,6 +24,20 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
+## Bonus Criteria
+```md
+* Update employee managers
+* View employees by the manager
+* View employees by department
+* Delete departments, roles, and employees
+* View the total utilized budget of a department -- in other words, the combined salaries of all employees in that department
+* Application allows users to update employee managers
+* Application allows users to view employees by the manager
+* Application allows users to view employees by department
+* Application allows users to delete departments, roles, and employees
+* Application allows users to view the total utilized budget of a department -- in other words, the combined salaries of all employees in that department.
+```
+
 
 ## Video
 WILL BE UPDATED AT A LATER TIME
