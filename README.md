@@ -3,8 +3,6 @@
 ## Description
 This project was provided as a challenge to portray how developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. This will assist users to be able to view and manage the departments, roles, and employees in their company so that the company can be organized.
 
-Because this Challenge will require the use of the `Inquirer` package, ensure that you install and use Inquirer version 8.2.4. To do so, use the following command in your project folder: `npm i inquirer@8.2.4`.
-
 ## Video
 WILL BE UPDATED AT A LATER TIME
 
