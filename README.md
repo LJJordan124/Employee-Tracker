@@ -3,23 +3,6 @@
 ## Description
 This project was provided as a challenge to portray how developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. This will assist users to be able to view and manage the departments, roles, and employees in their company so that the company can be organized.
 
-## Video
-WILL BE UPDATED AT A LATER TIME
-
-## Instructions
-Run the following in the terminal for installation:
-* npm install mysql2
-* npm install inquirer
-* npm install console.table --save
-
-Run the following in the terminal with your SQL account activated for usage:
-* source db/db.sql
-* source db/schema.sql
-* source db/seeds.sql
-
-Exit your SQL account and run the following in the terminal:
-* node server.js
-
 ## Acceptance Criteria
 
 ```md
@@ -41,6 +24,23 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
+
+## Video
+WILL BE UPDATED AT A LATER TIME
+
+## Instructions
+Run the following in the terminal for installation:
+* npm install mysql2
+* npm install inquirer
+* npm install console.table --save
+
+Run the following in the terminal with your SQL account activated for usage:
+* source db/db.sql
+* source db/schema.sql
+* source db/seeds.sql
+
+Exit your SQL account and run the following in the terminal:
+* node server.js
 
 ### Walkthrough Video: 27%
 
