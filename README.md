@@ -31,11 +31,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 * View employees by department
 * Delete departments, roles, and employees
 * View the total utilized budget of a department -- in other words, the combined salaries of all employees in that department
-* Application allows users to update employee managers
-* Application allows users to view employees by the manager
-* Application allows users to view employees by department
-* Application allows users to delete departments, roles, and employees
-* Application allows users to view the total utilized budget of a department -- in other words, the combined salaries of all employees in that department.
 ```
 
 
