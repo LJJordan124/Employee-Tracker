@@ -24,6 +24,7 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
+
 ## Bonus Criteria
 ```md
 * Update employee managers
@@ -33,9 +34,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 * View the total utilized budget of a department -- in other words, the combined salaries of all employees in that department
 ```
 
-
 ## Video
-WILL BE UPDATED AT A LATER TIME
+https://github.com/LJJordan124/Employee-Tracker/assets/112834937/8848519f-9bf1-4523-bf45-d3eac12b535e
 
 ## Instructions
 Run the following in the terminal for installation:
